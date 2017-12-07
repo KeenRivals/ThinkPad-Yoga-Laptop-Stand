@@ -7,7 +7,7 @@ This laptop stand allows you to get good airflow to the bottom of your ThinkPad 
 * ThinkPad Yoga 260
 * ThinkPad Yoga 370
 
-The model was built using OpenSCAD to extrude the SVG files to 3D blocks. The SVG files were designed in InkScape.
+The model was built using OpenSCAD to extrude the SVG files to 3D blocks. The SVG files were designed in InkScape. Also [available on Thingiverse](https://www.thingiverse.com/thing:2695041).
 
 # Build Instructions
 
