@@ -1,5 +1,8 @@
 # ThinkPad Yoga Laptop Stand
 
+![](Top.jpg?raw=true)
+![](Side.jpg?raw=true)
+
 This laptop stand allows you to get good airflow to the bottom of your ThinkPad Yoga laptop. It probably will work well with other laptops, but I can confirm it works with:
 
 * ThinkPad Yoga S1
